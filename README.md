@@ -1,4 +1,5 @@
 # Vaasa-ML
+
 Learning outcomes
 Machine learning is related to the technologies of how to make computing devices be able to learn and extract "hidden" information from input-data patterns. Extracted information could be used to make reasonable output (it can be in the form of suggestions, conclusions, or decisions), or to gain deep knowledge (by exploring data) about certain behavior. The student who successfully complete this course will be:
 1.	Able explain the manifestation of machine learning and their possible applications. Furthermore, they will be familiar with several concepts like data modelling, overfitting, underfitting, generalisation, memorisation, learning data, and validating data. 
@@ -11,6 +12,8 @@ Machine learning is related to the technologies of how to make computing devices
 8.	Able to define reinforcement learning and its main differences with supervised and unsupervised machine learning. 
 9.	Aware of the applications as well as limitations of machine learning algorithms.
 10.	Finally, course develops lifelong learning, Oral, written and interpersonal skills (Group Work, English), critical and analytical thinking, problem modeling and solving skills, IT skills and optimized decisions. The issue of professional ethics, norms of handling big data and data protection protocol are considered as an integral part of machine learning process.
+
+
 Content
 1.	Introduction to machine learning and data modelling.
 2.	Supervised learning algorithms and neural networks
