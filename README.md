@@ -26,5 +26,5 @@ Content
 9.	Reinforcement learning (optional)
 10.	Applications
 
-Teaching methods
+Teaching methods:
 Lectures 32 h, independent work 145 h
