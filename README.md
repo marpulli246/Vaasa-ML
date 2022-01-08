@@ -25,3 +25,6 @@ Content
 8.	Hidden Markov Models
 9.	Reinforcement learning (optional)
 10.	Applications
+
+Teaching methods
+Lectures 32 h, independent work 145 h
